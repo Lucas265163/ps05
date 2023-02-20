@@ -288,3 +288,6 @@ gapminder %>%
   summarize(name, le_rank, ratio)
 ```
 The ratio of the US in 2019 is still not as high as it was in 1960
+
+**Tell us how many hours did you spend on this PS.**
+About 7 hours
